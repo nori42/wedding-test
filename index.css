@@ -589,6 +589,10 @@ body {
   margin-top: 0.25rem;
 }
 
+.mt-3{
+  margin-top: 0.75rem;
+}
+
 .mt-4{
   margin-top: 1rem;
 }
@@ -601,16 +605,8 @@ body {
   margin-top: 2rem;
 }
 
-.mt-3{
-  margin-top: 0.75rem;
-}
-
 .block{
   display: block;
-}
-
-.flex{
-  display: flex;
 }
 
 .grid{
@@ -650,36 +646,16 @@ body {
   min-width: 100px;
 }
 
-.min-w-\[600px\]{
-  min-width: 600px;
-}
-
-.min-w-\[200px\]{
-  min-width: 200px;
+.min-w-\[120px\]{
+  min-width: 120px;
 }
 
 .min-w-\[150px\]{
   min-width: 150px;
 }
 
-.min-w-\[120px\]{
-  min-width: 120px;
-}
-
-.flex-col{
-  flex-direction: column;
-}
-
 .place-items-center{
   place-items: center;
-}
-
-.justify-center{
-  justify-content: center;
-}
-
-.overflow-y-scroll{
-  overflow-y: scroll;
 }
 
 .rounded-md{
