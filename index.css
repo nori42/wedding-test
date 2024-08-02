@@ -577,6 +577,11 @@ body {
   margin-right: 1rem;
 }
 
+.my-3{
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
 .mb-3{
   margin-bottom: 0.75rem;
 }
@@ -721,6 +726,11 @@ body {
   line-height: 1.75rem;
 }
 
+.text-sm{
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
 .text-\[\#a87a1b\]{
   --tw-text-opacity: 1;
   color: rgb(168 122 27 / var(--tw-text-opacity));
@@ -739,6 +749,16 @@ body {
 .text-white{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-gray-600{
+  --tw-text-opacity: 1;
+  color: rgb(75 85 99 / var(--tw-text-opacity));
+}
+
+.text-black{
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
 .lovers {
